@@ -12,7 +12,8 @@
 [正體中文][ZH_TW],
 [简体中文][ZH_CN],
 [한국어][KO_KR],
-[हिंदी][HI_IN]
+[हिंदी][HI_IN],
+[Русский][RU]
 
 
 [ID]:README.id.md
@@ -26,6 +27,7 @@
 [ZH_CN]:README.zh_cn.md
 [KO_KR]:README.ko_kr.md
 [HI_IN]:README.hi_in.md
+[RU]:README.ru.md
 
 Original Apollo 11 guidance computer (AGC) source code for Command
 Module (Comanche055) and Lunar Module (Luminary099). Digitized by
@@ -75,7 +77,7 @@ David G. Hoag      | Director<br>Apollo Guidance and Navigation Program | 28 Mar
 Ralph R. Ragan     | Deputy Director<br>Instrumentation Laboratory | 28 Mar 69
 
 [CONTRACT_AND_APPROVALS.agc]:https://github.com/chrislgarry/Apollo-11/blob/master/Comanche055/CONTRACT_AND_APPROVALS.agc
-[1]:https://cdn.rawgit.com/aleen42/badges/c9246f74/src/nasa.svg
+[1]:https://rawcdn.githack.com/aleen42/badges/c9246f74/src/nasa.svg
 [2]:https://www.nasa.gov/mission_pages/apollo/missions/apollo11.html
 [3]:http://www.ibiblio.org/apollo/
 [4]:http://web.mit.edu/museum/
