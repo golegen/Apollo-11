@@ -3,20 +3,23 @@
 
 :crossed_flags:
 [Bahasa Indonesia][ID],
+[Català][CA],
 [Deutsch][DE],
 [English][EN],
 [Español][ES],
 [Français][FR],
 [Italiano][IT],
 [Português][PT_BR],
+**Русский**
+[العربية][AR],
+[हिंदी][HI_IN],
 [正體中文][ZH_TW],
 [简体中文][ZH_CN],
-[한국어][KO_KR],
-[हिंदी][HI_IN],
-**Русский**
+[한국어][KO_KR]
 
-
+[AR]:README.ar.md
 [ID]:README.id.md
+[CA]:README.ca.md
 [DE]:README.de.md
 [EN]:README.md
 [ES]:README.es.md
@@ -49,7 +52,7 @@ Luminary099    | Часть исходного кода для Luminary 1A, лу
 Ассемблер      | yaYUL
 Контакты        | Ron Burkey <info@sandroid.org>
 Вебсайт        | www.ibiblio.org/apollo
-Оцифровка | Исходный код был расшифрован или иным способом адаптирован из оцифрованных изображений печатных копий из музея университета MIT. Оцифровку выполнил Paul Fjeld, упорядочил Deborah Douglas из музея. Огромная благодарность обоим.
+Оцифровка | Исходный код был расшифрован или иным способом адаптирован из оцифрованных изображений печатных копий из музея университета MIT. Оцифровку выполнил Paul Fjeld, упорядочила Deborah Douglas из музея. Огромная благодарность обоим.
 
 ### Договор и разрешения
 *Получено из [CONTRACT_AND_APPROVALS.agc]*
